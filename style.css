@@ -207,6 +207,21 @@ h4 {
 }
 
 
+
+
+
+/*Clients*/
+
+#clients .items-client{
+  display: flex;
+}
+
+#clients .items-client img{
+  display:block;
+  margin:auto;
+  width:60%;
+}
+
 footer {
 	position: fixed;
 	position: -webkit-sticky;
